@@ -1,0 +1,1 @@
+console.log("From there to here, and here to there, funny things are everywhere.");
