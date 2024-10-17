@@ -6,7 +6,7 @@ University of North Alabama, IT student
 
 I'm a Junior at the University of North Alabama pursuing a Bachelor's in Information Technology.
 
-* 🧠  I'm learning HTML5, JQuery, SQL
+* 🧠  I'm learning HTML5, SQL
 
 ### Skills
 
