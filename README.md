@@ -4,7 +4,7 @@ Hi, my name is Jackson
 University of North Alabama, IT Honors Student
 ---------------------------------------
 
-I'm a Junior at the University of North Alabama pursuing a Bachelor's in Information Technology.
+I'm a Senior at the University of North Alabama pursuing a Bachelor's in Information Technology.
 
 ### Skills
 
