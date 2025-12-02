@@ -1,4 +1,4 @@
-Hi, my name is Jackson
+Hi, I'm Jackson.
 ========================
 
 University of North Alabama, IT Honors Student
