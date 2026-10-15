@@ -1,10 +1,10 @@
 Hi, I'm Jackson.
 ========================
 
-University of North Alabama IT Honors Student
+University of North Alabama Web Developer I
 ---------------------------------------
 
-I'm a Senior at the University of North Alabama pursuing a Bachelor's in Information Technology.
+I'm a Web Dev at the University of North Alabama and a part-time grad student pursuing a Master's in Instructional Technology and Design.
 
 ### Skills
 
